@@ -1,11 +1,10 @@
 ---
 layout: archive
-title: "Talks and presentations"
-permalink: /talks/
+title: "Portfolio"
+permalink: /portfolio/
 author_profile: true
 ---
 
-
-
+{% include base_path %}
 
 🚀 **Coming Soon!**
