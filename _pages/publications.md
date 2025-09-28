@@ -88,13 +88,3 @@ American Society of Hematology Washington, DC
 
 ---
 
-Let me know if you want me to:
-
-- Add **DOI / publisher links** to all entries  
-- Sort them by year (descending)  
-- Format them into Jekyll front-matter style (with metadata)  
-- Create a BibTeX file instead for your repo  
-
-I can prepare whichever version you prefer — just say the style you want.
-::contentReference[oaicite:0]{index=0}
-
